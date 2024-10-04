@@ -1,4 +1,12 @@
-# AngularFirstWorkshop
+# Angular First Workshop 1
+
+Quick counter app in Angular
+
+## Key Takeaways
+
+- Everything in the APP component
+- Show variables in the app component class in the markup
+- Call methods in the component class with a button
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.6.
 
